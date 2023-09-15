@@ -8,6 +8,8 @@ public class EndtoendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EndtoendApplication.class, args);
+
+		System.out.println("Hello WORLD");
 	}
 
 }
